@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// © 2022 KITATUS and Friends LTD. All Rights Reserved.
 
 #pragma once
 
